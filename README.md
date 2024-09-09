@@ -1,6 +1,6 @@
 **ANÁLISE SOCIODEOMOGRÁFICA DOS CASOS DE DENGUE NO BRASIL - 2023**
 
-Elaboração: Emerson, Ramon Souza, Samuel Caldeira, Yuri Dantas
+Elaboração: Emerson Cruz, Ramon Souza, Samuel Caldeira, Yuri Dantas
 
 O estudo a seguir é resultado do projeto elaborado no programa Santander Coders 2024 para a disciplina Técnicas de Programação II 
 
