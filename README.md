@@ -10,8 +10,8 @@ Disponível em: <https://www.kaggle.com/datasets/henriquerezermosqur/dados-sus-s
 
 Acesso em: 02 de setembro de 2024
 
-Shapefile dos Municípios: <https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html> 
+Shapefile dos Estados: <https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2022/Brasil/BR/BR_UF_2022.zip>
+
+Shapefile dos Municípios: <https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2022/Brasil/BR/BR_Municipios_2022.zip> 
 
 Acesso em: 02 de setembro de 2024
-
-
